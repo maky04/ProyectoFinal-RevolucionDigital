@@ -1,0 +1,42 @@
+.Enviar{
+    background-color: rgb(81, 255, 197);
+  color: rgb(0, 0, 0);
+      padding: 17px;
+      padding-left: 102px;
+      padding-right: 90px;
+  border-color: rgb(81, 255, 197);
+         text-align: center;
+       margin-bottom: 10px;
+}
+body{
+    background-color: #ff1dce
+}
+form{
+    background-color: white;
+    background-position: 50% 50%;
+     width: 300px;
+     height: 400px;
+      padding: 40px;
+       margin: auto;
+       margin-top: 10%;
+  border-style: solid;
+  border-color: rgb(81, 255, 197);
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       font-size: small;
+  color: rgb(0, 0, 0);
+      padding-bottom: 50px;
+}
+.input{
+    padding: 10px;
+    padding-left: 90px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+}
+.mensaje{
+    padding-bottom: 17px;
+    padding-top: 17px; 
+    padding-left: 90px;
+    padding-right: 10px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+}
